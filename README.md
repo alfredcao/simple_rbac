@@ -1,1 +1,1 @@
-A simple java cms system
+java实现，简单权限管理模型
